@@ -2,4 +2,4 @@
 
 Uses [Global Biodiversity Information Facility occurrence API](https://www.gbif.org/developer/summary).
 
-[[https://github.com/anmipa/wolf-spotting/blob/master/img/screenshot.png|alt=screenshot]]
+![Screenshot](https://github.com/anmipa/wolf-spotting/blob/master/img/screenshot.png)
